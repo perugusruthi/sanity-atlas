@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+We are building a Sanity Studio and a Sanity SDK App for a learning management system.
+
+The Studio is in the /studio directory. It follows the standard conventions for a Sanity v3 Studio.
+
+The Sanity SDK app is in /sales-academy. It uses the Sanity App SDK library, specifically @sanity/sdk
+
+Do not make any changes in /frontend. It is not used at the moment

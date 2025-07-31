@@ -1,0 +1,9 @@
+---
+globs: sales-academy/**,sales-atlas/**
+alwaysApply: false
+---
+This is a React app built with the Sanity App SDK tooling. It uses the @sanity/react-sdk library to interact with the Sanity dataset that contains all the content and data.
+
+Do not use @sanity/client directly. Only use the functions and hooks provided by @sanity/react-sdk to fetch and update data.
+
+This is not a Sanity Studio. Sanity Studio and Sanity App SDK are different things.
